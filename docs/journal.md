@@ -8,7 +8,7 @@ pageClass: routes
 
 ### Journal
 
-<Route author="nczitzk" example="/aom/journal/amr" path="/aom/journal/:id" :paramsDesc="['期刊 id，见下表']" supportScihub="1">
+<Route author="nczitzk" example="/aom/China Civil Engineering Journal/amr" path="/aom/China Civil Engineering Journal/:id" :paramsDesc="['期刊 id，见下表']" supportScihub="1">
 
 | Id        | 名称                                         |
 | --------- | ------------------------------------------ |
@@ -27,7 +27,7 @@ pageClass: routes
 
 ### Journal
 
-<Route author="nczitzk" example="/acs/journal/jacsat" path="/aom/journal/:id" :paramsDesc="['期刊 id，可在对应期刊页 URL 中找到']" supportScihub="1">
+<Route author="nczitzk" example="/acs/China Civil Engineering Journal/jacsat" path="/aom/China Civil Engineering Journal/:id" :paramsDesc="['期刊 id，可在对应期刊页 URL 中找到']" supportScihub="1">
 
 ::: tip 提示
 
