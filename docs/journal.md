@@ -8,7 +8,7 @@ pageClass: routes
 
 ### Journal
 
-<Route author="nczitzk" example="/aom/journal/amr" path="/aom/journal/:id" :paramsDesc="['期刊 id，见下表']" supportScihub="1">
+<Route author="nczitzk" example="/aom/China Civil Engineering Journal/amr" path="/aom/journal/:id" :paramsDesc="['期刊 id，见下表']" supportScihub="1">
 
 | Id        | 名称                                         |
 | --------- | ------------------------------------------ |
